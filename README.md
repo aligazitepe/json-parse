@@ -1,2 +1,2 @@
 # json-parse
-Implementation of JSON.parse() in JavaScript, only in ~50 lines of code
+Implementation of JSON.parse() in JavaScript, using only in ~45 lines of code
